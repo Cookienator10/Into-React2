@@ -1,0 +1,10 @@
+h1 {
+    width: 100vh;
+    height: 10vh;
+    color: rgb(157, 237, 240);
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
