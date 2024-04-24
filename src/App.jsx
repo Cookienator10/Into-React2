@@ -1,14 +1,10 @@
-
-import { Home } from './src/Components/Pages/Home/Home'
+import { Home } from './components/Pages/Home/Home'
 function App() {
 
   return (
-    <>
-    <Home/>
-    
+    <>      
+      <Home />
     </>
-  
-  
   )
 }
 
