@@ -1,19 +1,21 @@
 h3 {
-    margin-right: 14em;
-    margin-top: 5em;
+    margin-left: 3em;
+    margin-top: 4rex;
 
     color: beige;
     font-family: 'Courier New';
 
-    font-size: 1em;
+    font-size: 2em;
+    padding: 14px;
 }
 
 h4 {
-    margin-left: 45em;
-    margin-top: -15em;
+    margin-left: 29em;
+    margin-top: -11em;
     color:beige;
     font-family: 'Courier New';
-    font-size: 1em;
+    font-size: 2em;
+    padding: 14px;
 
 }
 
@@ -21,9 +23,14 @@ p {
     margin-left: 45em;
     font-family: 'Courier New';
     color: rgb(248, 246, 244);
+    padding: 14px;
+
 }
 
 #S {
-    width: 28em;
+    width: 18em;
     height: 15em;
-  }
+    border-radius: 50% ;
+    padding: 14px;
+
+}

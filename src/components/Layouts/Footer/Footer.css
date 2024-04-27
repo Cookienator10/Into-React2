@@ -1,0 +1,7 @@
+.footer-page {
+    width: 100vw;
+    height: 30rem;
+    background-color: rgb(31, 49, 83);
+    display: flex;
+    justify-content: center;
+  }

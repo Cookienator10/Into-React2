@@ -1,7 +1,7 @@
 .main-page {
   width: 100vw;
-  height: 30rem;
-  background-color: #212631;
+  height: 190rem;
+  background-color: rgb(88, 92, 100);
   display: flex;
   justify-content: center;
 }

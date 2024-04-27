@@ -10,6 +10,7 @@ export const Navbar = () => {
         <ItemNavbar content='Acerca de nosotros' />
         <ItemNavbar content='FAQ' />
       </ul>
+
     </nav>
   )
 }
