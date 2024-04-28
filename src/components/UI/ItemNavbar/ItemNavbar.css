@@ -15,14 +15,14 @@ li:hover {
 }
 
 
-#CiFacebook {
+.CiFacebook {
   color: azure;
 }
 
-#FaWhatsapp {
+.FaWhatsapp {
   color: aliceblue;
 }
 
-#SiGmail {
+.SiGmail {
   color: #fff;
 }
